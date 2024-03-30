@@ -26,9 +26,7 @@ It is an issue that is impacting a growing amount of people. This project aims t
 
 ![Past disasters](https://github.com/pedropereira218/DisastersWebMap/assets/60353880/727b8cc0-825f-484c-9706-8710580df20c)
 
-### Live Code demonstration
-
-https://1drv.ms/v/s!Au-rrPBKaodjgltFHVfs8C3cseW8?e=ApXabl
+### [Live Code demonstration](https://1drv.ms/v/s!Au-rrPBKaodjgltFHVfs8C3cseW8?e=ApXabl)
 
 
 
